@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-dynamic-user"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS dynamic-user component - user_management"
+
+[lib]
+name = "dynamic_user"
+path = "src/lib.rs"
