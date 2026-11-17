@@ -3,7 +3,7 @@ name = "SigmaOS-dynamic-user"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dynamic-user component"
+description = "dynamic user"
 upstream = []
 
 [contract]
